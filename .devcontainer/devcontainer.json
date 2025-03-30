@@ -1,5 +1,5 @@
 {
-    "name": "React Dev Container",
+    "name": "Investment Calculator",
     "dockerComposeFile": "docker-compose.yml",
     "service": "react",
     "forwardPorts": [5173],
