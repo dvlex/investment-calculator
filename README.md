@@ -1,8 +1,9 @@
-![reactjs-vite-tailwindcss-boilerplate](https://user-images.githubusercontent.com/16243531/217138979-b854309c-4742-4275-a705-f9fec5158217.jpg)
+![image](https://github.com/user-attachments/assets/f4bb46c8-af76-43ea-b0d3-58bf679e848c)
 
-# React Tailwindcss Boilerplate build with Vite
 
-This is a boilerplate build with Vite, React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
+# React Investment Calculator
+
+This app could calculate compound interest in x years with y% of interest per year
 
 ## What is inside?
 
