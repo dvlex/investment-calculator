@@ -1,0 +1,12 @@
+.form {
+    @apply rounded-lg shadow-md p-6 space-y-4;
+    background: radial-gradient(circle at top left, #0e8d6f, #10a37e 70%, #12b08a);
+}
+
+.form-element {
+    @apply flex flex-col;
+}
+
+.form-element label {
+    @apply text-white font-semibold;
+}

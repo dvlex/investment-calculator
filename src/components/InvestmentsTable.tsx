@@ -6,7 +6,7 @@ function InvestmentsTable({ investmentData }) {
   })
 
   return (
-    <table>
+    <table className="text-white">
       <thead>
         <tr>
           <th>Year</th>
